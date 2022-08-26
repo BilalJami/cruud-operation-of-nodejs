@@ -1,0 +1,76 @@
+{
+    "table":[
+        {
+            "id":1,
+            "avatar":"avatar",
+            "name":"Ali",
+            "sex":"Male",
+            "birth":"12/5/1999",
+            "group":"Web developing"
+        },
+        {
+            "id":2,
+            "avatar":"avatar",
+            "name":"Ahmad",
+            "sex":"Male",
+            "birth":"12/5/1996",
+            "group":"App developing"
+        },
+        {
+            "id":3,
+            "avatar":"avatar",
+            "name":"Hafsa",
+            "sex":"Female",
+            "birth":"17/3/1990",
+            "group":"Desktop App developing"
+        },
+        {
+            "id":4,
+            "avatar":"avatar",
+            "name":"Fatima",
+            "sex":"Female",
+            "birth":"45/5/1999",
+            "group":"web developing"
+        },
+        {
+            "id":5,
+            "avatar":"avatar",
+            "name":"Hussain",
+            "sex":"male",
+            "birth":"06/11/1994",
+            "group":"web developing"
+        },
+        {
+            "id":6,
+            "avatar":"avatar",
+            "name":"Ali",
+            "sex":"male",
+            "birth":"12/5/1999",
+            "group":"web developing"
+        },
+        {
+            "id":7,
+            "avatar":"avatar",
+            "name":"Fahad Ali",
+            "sex":"male",
+            "birth":"12/5/1995",
+            "group":"Box developing"
+        },
+        {
+            "id":8,
+            "avatar":"avatar",
+            "name":"Zaheer",
+            "sex":"male",
+            "birth":"09/3/1999",
+            "group":"Game developing"
+        },
+        {
+            "id":9,
+            "avatar":"avatar",
+            "name":"Akhtar",
+            "sex":"male",
+            "birth":"19/8/1989",
+            "group":"Web developing"
+        }
+    ]
+}
